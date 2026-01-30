@@ -1,6 +1,6 @@
 # Sistema de Biblioteca em C
 
-Projeto desenvolvido em linguagem C como atividade acadêmica do curso de Engenharia de Software (2º período).
+Projeto desenvolvido em linguagem C como atividade acadêmica do curso de Engenharia de Software.
 
 ## 📚 Funcionalidades
 - Cadastro de livros
